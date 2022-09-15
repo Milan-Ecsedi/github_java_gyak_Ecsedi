@@ -8,5 +8,7 @@ public class Main {
         String tartalom= "tartalom githubhoz lol!";
 
 
+
+
     }
 }
